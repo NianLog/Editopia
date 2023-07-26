@@ -1,10 +1,11 @@
 <p align="center">
-<a href="#"><img src="https://img.ourl.top/uploads/2023/07/26/64c06fc02db10.png"></a>
+<a href="#"><img src="./img/Editopia_logo-1.png"></a>
 </p><hr>
 <p align="center">
 <img alt="开源许可协议 - 非商业使用开源" src="https://img.shields.io/badge/License-GPLv3-blue">
 <img alt="当前版本" src="https://img.shields.io/badge/Version-v0.1.1-green">
 </p>
+
 # Editopia - 给你不一样的编辑体验
  👏从现在起，立刻体验更强大的记事本！
 
